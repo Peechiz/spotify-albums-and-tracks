@@ -16,3 +16,12 @@ h1, h2, h3{
 	cursor: pointer;
 	text-decoration: underline;
 }
+
+img {
+	height: 50%;
+	width: 50%;
+}
+
+#albums-and-tracks li {
+	list-style-type: decimal;
+}
